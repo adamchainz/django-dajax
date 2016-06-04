@@ -1,7 +1,7 @@
 Installation
 ============
 
-In order to use ``dajax`` you should install ``django-dajaxice`` before. Please follow these instructions `here <http://django-dajaxice.readthedocs.org/en/latest/installation.html>`_.
+In order to use ``dajax`` you should install ``django-dajaxice`` before. Please follow these instructions `here <https://django-dajaxice.readthedocs.io/en/latest/installation.html>`_.
 
 Installing Dajax
 ----------------

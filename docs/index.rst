@@ -33,7 +33,7 @@ How does it work?
 Example
 -------
 
-Once you've `installed dajaxice <http://django-dajaxice.readthedocs.org/en/latest/installation.html>`_ and `dajax <http://django-dajax.readthedocs.org/en/latest/installation.html>`_ you can create ajax functions in your Python code::
+Once you've `installed dajaxice <https://django-dajaxice.readthedocs.io/en/latest/installation.html>`_ and `dajax <https://django-dajax.readthedocs.io/en/latest/installation.html>`_ you can create ajax functions in your Python code::
 
 
     from dajax.core import Dajax
